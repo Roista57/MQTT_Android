@@ -12,8 +12,6 @@ import android.widget.Toast;
 import android.widget.Switch;
 import android.os.Handler;
 
-import com.example.myapplication.R;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
